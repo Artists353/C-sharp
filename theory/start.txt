@@ -1,0 +1,27 @@
+============================Самая первая программа на C#============================
+
+using System -- подключение самой главной библиотеки 
+
+namespace practica -- папка в которой будет все пронстранства, классы, функции
+
+class Program -- класс в котором пишем основную программу
+
+static void Main() -- функция которая нечего не возращает
+
+Console.WriteLine("Hello!!"); -- вывод в консоль числа
+
+\n -- перевод на следущую строку
+
+using System;
+
+
+namespace practica
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hello!!");
+        }
+    }
+}
