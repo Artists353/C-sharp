@@ -28,7 +28,7 @@ using System.Runtime.InteropServices;
 
 //Второй урок
 
-namespace practica
+/*namespace practica
 {
     class Program
     {
@@ -72,4 +72,16 @@ namespace practica
             Console.WriteLine("Первое число " + num_1 + " Второе число " + num_2);
         }
     }
+}*/
+
+//Третий урок 
+
+namespace practica {
+    class Program
+    {
+        static void Main()
+        {
+            
+        }
+    }    
 }
