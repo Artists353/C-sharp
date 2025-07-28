@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\C-sharp\practica\obj\Debug\net9.0\refint\practic
 C:\Users\Admin\Documents\GitHub\C-sharp\practica\obj\Debug\net9.0\practica.pdb
 C:\Users\Admin\Documents\GitHub\C-sharp\practica\obj\Debug\net9.0\practica.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\C-sharp\practica\obj\Debug\net9.0\ref\practica.dll
+C:\Users\Admin\Documents\GitHub\C-sharp\practica\obj\Debug\net9.0\practica.sourcelink.json
